@@ -15,7 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:center; margin:4px">
 <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS Code" height="40" style="vertical-align:center; margin:4px">
 <img src="https://icons-for-free.com/download-icon-logo+react+react+js+icon-1320184811840217251_512.png" alt="React" height="40" style="vertical-align:center; margin:4px">
-<img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" alt="UX/UI" height="40" style="vertical-align:center; margin:4px">
+<img src="https://netgreater.com/wp-content/uploads/2021/11/uxui.png" alt="UX/UI" height="40" style="vertical-align:center; margin:4px">
  
 <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" alt="Django" height="40" style="vertical-align:center; margin:4px">
  
