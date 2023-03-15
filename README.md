@@ -9,23 +9,23 @@
 
 ## 🛠 Languages and Tools:
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40" style="vertical-align:center; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:center; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:center; margin:4px">
-<img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" alt="Javascript" height="40" style="vertical-align:center; margin:4px">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" height="40" style="vertical-align:center; margin:4px">
+ <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" height="40" style="vertical-align:center; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:center; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:center; margin:4px">
 <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS Code" height="40" style="vertical-align:center; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:center; margin:4px">
+<img src="https://icons-for-free.com/download-icon-logo+react+react+js+icon-1320184811840217251_512.png" alt="React" height="40" style="vertical-align:center; margin:4px">
 <img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" alt="UX/UI" height="40" style="vertical-align:center; margin:4px">
  
 <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" alt="Django" height="40" style="vertical-align:center; margin:4px">
  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node" height="40" style="vertical-align:center; margin:4px">
- <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="" height="40" style="vertical-align:center; margin:4px">
-<img src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg" alt="" height="40" style="vertical-align:center; margin:4px">
-<img src="https://pbs.twimg.com/profile_images/2199543684/ejs_400x400.png" alt="" height="40" style="vertical-align:center; margin:4px">
+ <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="40" style="vertical-align:center; margin:4px">
+<img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" alt="Mongoose" height="40" style="vertical-align:center; margin:4px; border-radius:50px">
+<img src="https://pbs.twimg.com/profile_images/2199543684/ejs_400x400.png" alt="EJS" height="40" style="vertical-align:center; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" alt="Express" height="40" style="vertical-align:center; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="" height="40" style="vertical-align:center; margin:4px">
-<img src="https://logo-download.com/wp-content/data/images/png/Bootstrap-logo.png" alt="" height="40" style="vertical-align:center; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="" height="40" style="vertical-align:center; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="" height="40" style="vertical-align:center; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" height="40" style="vertical-align:center; margin:4px">
  <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_wuVM6bSMaCcCTWaqTfvyBRS5SqLVCVy1_icon_fde574967418afe93bb032808563e40e63606adb805113065acfa35010332164.png" alt="" height="40" style="vertical-align:center; margin:4px">
@@ -35,20 +35,20 @@
 
 </p>
 
-## Let's Connect!
+## ☕️ Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anastasiiaasti/">
-  <img src="https://img.icons8.com/color/512/linkedin.png" alt="" height="40" style="vertical-align:center; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.instagram.com/dj_astiramira/">
-  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="" height="40" style="vertical-align:center; margin:4px">
+  <img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="" height="40" style="vertical-align:top; margin:4px">
   </a>
-  </div>
+</div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/astii">
-<img src="https://i.ytimg.com/vi/8LfPbnSPiVY/maxresdefault.jpg" alt="Buy me a coffee" height="100px" style="vertical-align:top; margin:4px">
+<img src="https://i.ytimg.com/vi/8LfPbnSPiVY/maxresdefault.jpg" alt="Buy me a coffee" height="100px" style="vertical-align:top; margin-top:10px">
     <a/>
 </div>
 
