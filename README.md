@@ -16,12 +16,14 @@
 <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS Code" height="40" style="vertical-align:center; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:center; margin:4px">
 <img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" alt="UX/UI" height="40" style="vertical-align:center; margin:4px">
+ 
 <img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" alt="Django" height="40" style="vertical-align:center; margin:4px">
+ 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node" height="40" style="vertical-align:center; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" alt="Express" height="40" style="vertical-align:center; margin:4px">
-<img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="" height="40" style="vertical-align:center; margin:4px">
+ <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="" height="40" style="vertical-align:center; margin:4px">
 <img src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg" alt="" height="40" style="vertical-align:center; margin:4px">
 <img src="https://pbs.twimg.com/profile_images/2199543684/ejs_400x400.png" alt="" height="40" style="vertical-align:center; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" alt="Express" height="40" style="vertical-align:center; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="" height="40" style="vertical-align:center; margin:4px">
 <img src="https://logo-download.com/wp-content/data/images/png/Bootstrap-logo.png" alt="" height="40" style="vertical-align:center; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="" height="40" style="vertical-align:center; margin:4px">
