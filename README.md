@@ -34,6 +34,23 @@
 
 </p>
 
+## Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anastasiiaasti/">
+  <img src="https://img.icons8.com/color/512/linkedin.png" alt="" height="40" style="vertical-align:center; margin:4px">
+  </a>
+  <a href="https://www.instagram.com/dj_astiramira/">
+  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="" height="40" style="vertical-align:center; margin:4px">
+  </a>
+  </div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/astii">
+<img src="https://i.ytimg.com/vi/8LfPbnSPiVY/maxresdefault.jpg" alt="Buy me a coffee" height="100px" style="vertical-align:top; margin:4px">
+    <a/>
+</div>
+
 <!--
 **AnastasiiaAsti/AnastasiiaAsti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
