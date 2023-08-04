@@ -18,10 +18,10 @@
 
 
   <a href="https://www.linkedin.com/in/anastasiiaasti/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" vertical-align:top margin:4px>
   </a>
   <a href="https://www.instagram.com/dj_astiramira/">
-  <img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="" height="40" vertical-align:top margin:4px>
   </a>
 
 
