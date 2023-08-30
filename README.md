@@ -3,6 +3,8 @@
 
 ## 👩🏼‍💻 Currently ..
 
+- Front-end Developer at <a href="https://www.spacelab.space/">SpaceLab</a>
+- Software Developer at <a href="https://femispace.com/)">FemiSpace</a>
 - <a href="https://www.linkedin.com/in/anastasiiaasti/" >Frontend Developer & Fullstack Software Engineer</a> 
 - Instructor Associate and Software Developer in <a href="https://generalassemb.ly/instructors/asti-shalymova/29260">General Assembly's</a> SEI bootcamp
 
