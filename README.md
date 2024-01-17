@@ -17,7 +17,6 @@
 ## 👩🏼‍💻 Currently ..
 
 - Front-end Developer at <a href="https://curiouser.ai/">Curiouser.ai</a>
-- Co-founder Front-End Developer at <a href="https://www.talkdei.io/">TalkDEI</a>
 - Front-end Developer at <a href="https://www.spacelab.space/">SpaceLab</a>
 - Instructor Associate and Software Developer in <a href="https://generalassemb.ly/instructors/asti-shalymova/29260">General Assembly's</a> SEI bootcamp
 
