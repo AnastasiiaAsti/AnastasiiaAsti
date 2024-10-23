@@ -16,17 +16,9 @@
 
 ## 👩🏼‍💻 Currently ..
 
+- Web Developer at <a href="https://coopbrand.co/">COOP Branding</a>
 - Front-end Developer at <a href="https://curiouser.ai/">Curiouser.ai</a>
-- Front-end Developer at <a href="https://www.spacelab.space/">SpaceLab</a>
 - Instructor Associate and Software Developer in <a href="https://generalassemb.ly/instructors/asti-shalymova/29260">General Assembly's</a> SEI bootcamp
-
-
-## 🛠 Languages and Tools:
-
-
-<img align="center" src="https://skills.thijs.gg/icons?i=js,nodejs,express,mongodb,python,django,react,postgresql,git,aws&theme=dark"/>
-<img align="center" src="https://skills.thijs.gg/icons?i=html,css,bootstrap,tailwind,materialui,vscode,scss,figma,heroku,netlify,&theme=dark"/>
-
 
 
 
