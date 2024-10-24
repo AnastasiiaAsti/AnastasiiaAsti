@@ -1,5 +1,5 @@
 
-<img width="800" alt="Screenshot 2024-10-23 at 6 32 10 AM" src="https://github.com/user-attachments/assets/d2735161-f862-448a-a255-1fa97a2aa082">
+<img width="100%" alt="Screenshot 2024-10-23 at 6 32 10 AM" src="https://github.com/user-attachments/assets/d2735161-f862-448a-a255-1fa97a2aa082">
 
 
 <div id="badges" align="center">
