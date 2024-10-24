@@ -1,4 +1,5 @@
-<img width="807" alt="Screenshot 2023-05-24 at 2 57 04 PM" src="https://github.com/AnastasiiaAsti/AnastasiiaAsti/assets/97631462/7dc89e0e-2bf5-4c38-a434-ce0b7221a61a">
+
+<img width="667" alt="Screenshot 2024-10-23 at 6 32 10 AM" src="https://github.com/user-attachments/assets/d2735161-f862-448a-a255-1fa97a2aa082">
 
 
 <div id="badges" align="center">
