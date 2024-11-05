@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anastasiiaasti/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://asticodes.dev" target="blank">
+  <a href="https://www.asticodes.dev/showtime" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="Instagram Badge"/>
   </a>
   <a href="https://www.instagram.com/asticodes/" target="blank">
